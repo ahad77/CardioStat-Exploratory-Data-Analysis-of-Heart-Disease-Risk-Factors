@@ -1,4 +1,4 @@
-# Heart Disease Data Analysis (Module 7 Assignment)
+# Heart Disease Data Analysis
 
 ## 📋 Overview
 This project performs an Exploratory Data Analysis (EDA) on the Heart Disease Dataset. The analysis focuses on patient demographics and clinical attributes to understand the distribution of cardiovascular health indicators.
